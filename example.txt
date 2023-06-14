@@ -1,5 +1,0 @@
-This is an example 
-
-this is a new line
-
-and another one for the next process!
